@@ -1,6 +1,6 @@
-The objective of this report is to describe the implementation of a searchable database and analyze the 
+The objective of this project is to describe the implementation of a searchable database and analyze the 
 relationship between variant emergence and vaccination rollout. The report outlines the dataset 
-sources, methodology, and provides an analysis of the trends observed.
+sources, and methodology, and provides an analysis of the trends observed.
 
 
 Dataset:
