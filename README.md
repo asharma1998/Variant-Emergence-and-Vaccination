@@ -10,3 +10,4 @@ transformed and categorized based on specific variants and countries. A total of
 included in the analysis. For vaccination data, the "Our World in Data" dataset from the website 
 https://ourworldindata.org/covid-vaccinations was used to understand the number of cases per country 
 within a given timeframe.
+![image](https://github.com/user-attachments/assets/a993e3c7-7b09-498e-9876-65a9d4d2c2b5)
